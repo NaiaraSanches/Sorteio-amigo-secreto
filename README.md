@@ -4,7 +4,7 @@
 <p>O projeto foi criado para aplicar o conhecimento obtido no programa de programação da Alura + ONE Oracle.</p>
 
 <h3> Descrição</h3>
-<p>A página tem o objetivo de montar uma lista com o nome dos usuáriosque desejam participar do sorteio, de modo que os nomes não se repitam e possibilite a limpeza do campo para inserir o próximo participante. Após a conclusão da lista é so clicar no botão Sortear que será feita uma seleção aleatória entre os nomes.</p>
+<p>A página tem o objetivo de montar uma lista com o nome dos usuários que desejam participar do sorteio, de modo que os nomes não se repitam e possibilite a limpeza do campo para inserir o próximo participante. Após a conclusão da lista é so clicar no botão "Sortear amigo" que será feita uma seleção aleatória entre os nomes dos participantes.</p>
 
 ## Tecnologias
 <div>
